@@ -1,3 +1,20 @@
-Evaluated 4 mobile apps for blood pressure monitoring, exhibiting research, technical analysis, decision-making and comparison skills. Assessed app features, usability, data exchange compatibility through scrutiny. Demonstrated comprehension of blood pressure metrics. Developed criteria-based comparison grid, rating apps objectively on functionality, ease of use, barriers. Examined strengths and limitations attentively. Provided recommendations after thorough analysis, showcasing problem-solving abilities. Honed evaluation, analytical, technical writing and communication proficiencies vital in healthcare informatics. Identified optimal solutions through methodical assessments.
-Evaluated 4 mobile apps for blood pressure monitoring, exhibiting research, technical analysis, decision-making and comparison skills. Assessed app features, usability, data exchange compatibility through scrutiny. Demonstrated comprehension of blood pressure metrics. Developed criteria-based comparison grid, rating apps objectively on functionality, ease of use, barriers. Examined strengths and limitations attentively. Provided recommendations after thorough analysis, showcasing problem-solving abilities. Honed evaluation, analytical, technical writing and communication proficiencies vital in healthcare informatics. Identified optimal solutions through methodical assessments.
-Skills: Evaluation and Analysis Skills · Technical Comprehension Skills · Decision-Making and Problem-Solving Skills · Research and Information Gathering Skills · Evaluation and Analysis Skills · Technical Comprehension Skills · Decision-Making and Problem-Solving Skills 
+# mHealth Blood Pressure Monitoring App Evaluation
+
+## Overview
+Evaluated 4 mobile health applications designed for blood pressure monitoring. This project demonstrates research, technical analysis, decision-making, and comparison skills in the digital health space.
+
+## Objectives
+- Compare usability, accuracy, and features across 4 mHealth apps
+- Identify strengths and limitations of each application
+- Provide evidence-based recommendations
+
+## Tools & Skills Used
+- Systematic app evaluation framework
+- Health informatics research methods
+- Comparative analysis
+
+## Key Findings
+Documented detailed comparisons of app performance, user interface design, and clinical reliability for blood pressure monitoring.
+
+## Author
+Kaliprasad | MS Health Informatics
